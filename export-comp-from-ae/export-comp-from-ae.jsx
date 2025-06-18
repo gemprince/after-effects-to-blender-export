@@ -1,5 +1,4 @@
 {
-    // @include 'lib/util.js'
 
     var fileVersion = 3;
     var settingsVersion = '0.2';
